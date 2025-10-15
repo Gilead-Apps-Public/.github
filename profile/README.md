@@ -1,4 +1,4 @@
-# Gilead Sciences Public Repositories
+# (Public) Gilead Sciences Public Repositories
 
 This GitHub organization is for source code and assets that Gilead explicitly designates as public. All content here must be safe to disclose externally.
 
